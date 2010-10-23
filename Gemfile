@@ -1,0 +1,6 @@
+source "http://rubygems.org"
+gem "rails", "2.3.8"
+gem "rack", "~>1.1"
+gem "compass"
+gem "will_paginate"
+gem "radius"
