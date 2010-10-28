@@ -1,5 +1,5 @@
 source "http://rubygems.org"
-gem "rails", "2.3.8"
+gem "rails", "2.3.9"
 gem "rack", "1.1.0"
 gem "mysql"
 gem "will_paginate"
