@@ -11,6 +11,7 @@ GEM
     activeresource (2.3.8)
       activesupport (= 2.3.8)
     activesupport (2.3.8)
+    mysql (2.8.1)
     rack (1.0.1)
     rails (2.3.8)
       actionmailer (= 2.3.8)
@@ -26,6 +27,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  mysql
   rack (~> 1.0.1)
   rails (= 2.3.8)
   will_paginate
