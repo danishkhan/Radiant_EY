@@ -11,11 +11,7 @@ GEM
     activeresource (2.3.8)
       activesupport (= 2.3.8)
     activesupport (2.3.8)
-    compass (0.10.5)
-      haml (>= 3.0.4)
-    haml (3.0.22)
-    rack (1.0.0)
-    radius (0.6.1)
+    rack (1.0.1)
     rails (2.3.8)
       actionmailer (= 2.3.8)
       actionpack (= 2.3.8)
@@ -30,8 +26,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  compass
-  rack (~> 1.0.0)
-  radius
+  rack (~> 1.0.1)
   rails (= 2.3.8)
   will_paginate
