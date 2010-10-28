@@ -1,7 +1,5 @@
 source "http://rubygems.org"
 gem "rails", "2.3.8"
-gem "rack", "~>1.0.1"
+gem "rack", "1.0.1"
 gem "mysql"
-# gem "compass"
 gem "will_paginate"
-# gem "radius"

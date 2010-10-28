@@ -28,6 +28,6 @@ PLATFORMS
 
 DEPENDENCIES
   mysql
-  rack (~> 1.0.1)
+  rack (= 1.0.1)
   rails (= 2.3.8)
   will_paginate
