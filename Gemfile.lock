@@ -1,6 +1,7 @@
 GEM
   remote: http://rubygems.org/
   specs:
+    RedCloth (4.2.3)
     actionmailer (2.3.5)
       actionpack (= 2.3.5)
     actionpack (2.3.5)
@@ -27,6 +28,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  RedCloth (> 4.0)
   mysql
   rack (~> 1.0.0)
   rails (= 2.3.5)
